@@ -19,6 +19,7 @@ News
     - BRCA Included in market structure bill, the [Clarity Act](https://x.com/TheBlueMatt/status/1931875497388245195)
     - [Save our Wallets](https://saveourwallets.org)
 - [Texas Ready for $10M Bitcoin Purchase After Governor Signs Bill for State Reserve](https://www.coindesk.com/policy/2025/06/23/texas-ready-for-10m-bitcoin-purchase-after-governor-signs-bill-for-state-reserve)
+- [Federal Housing Director orders Fannie Mae to consider Crypto as an asset for obtaining mortgages](https://x.com/pulte/status/1937944964656152800?s=46&t=Bn5JvR0rQQB6SFpzCAc8rQ)
 - [Start9 moves Knots to the Main Registry.](https://x.com/start9labs/status/1934983769863364785) Previously in the Community Registry
 	- [Knots at 13% market share](https://x.com/UnderCoercion/status/1934943172872044892)
 - [Texas cops cut open crypto ATM to recover $25K lost to scam](https://cointelegraph.com/news/texas-police-open-crypto-atm-family-scam-funds-bitcoin-community-question-decision)
