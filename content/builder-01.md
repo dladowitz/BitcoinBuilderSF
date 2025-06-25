@@ -17,14 +17,19 @@ News
 ----
 - [Clarity Act heads to House floor for Vote](https://bitcoinmagazine.com/news/the-clarity-act-heads-to-house-floor-for-vote-with-protection-for-noncustodial-tools-intact)
     - BRCA Included in market structure bill, the [Clarity Act](https://x.com/TheBlueMatt/status/1931875497388245195)
-    - [Save our Wallets](https://saveourwallets.org) 
+    - [Save our Wallets](https://saveourwallets.org)
+- [Texas Ready for $10M Bitcoin Purchase After Governor Signs Bill for State Reserve](https://www.coindesk.com/policy/2025/06/23/texas-ready-for-10m-bitcoin-purchase-after-governor-signs-bill-for-state-reserve)
 - [Start9 moves Knots to the Main Registry.](https://x.com/start9labs/status/1934983769863364785) Previously in the Community Registry
 	- [Knots at 13% market share](https://x.com/UnderCoercion/status/1934943172872044892)
+- [Texas cops cut open crypto ATM to recover $25K lost to scam](https://cointelegraph.com/news/texas-police-open-crypto-atm-family-scam-funds-bitcoin-community-question-decision)
 - [Square is earning 9.7% yield](https://www.coindesk.com/tech/2025/05/29/square-flies-the-flag-for-the-lightning-network-with-97-yield-on-bitcoin-holdings) on its C= Lighting Service Provider
 	- [Bitrefill reports 3.5% yield](https://x.com/bitrefill/status/1930217463779676334)
+    - ["Lightning network yield is the bitcoin wallet business model"](https://x.com/moneyball/status/1930259490076553719)
 - [Redefine Bitcoin’s Base Unit assigned BIP number](https://github.com/bitcoin/bips/pull/1821)
     - Designathon: [Re-basing Bitcoin](https://event.bitcoin.design/#project-reczoE4WXQpKW5pZA)
 - [Lighting Wallet Market in Japan](https://x.com/DiamondHandsLN/status/1922642890271916443) (64%: Wallet of Satoshi)
+- [Human Rights Foundation Donates 8 BTC To 22 Freedom Projects](https://bitcoinmagazine.com/news/human-rights-foundation-donates-800-million-satoshis-to-22-worldwide-bitcoin-and-freedom-projects)
+- [My First Bitcoin receives $1 million grant to advance independent Bitcoin Education around the world](https://myfirstbitcoin.io/my-first-bitcoin-receives-1-million-grant-from-startsmall-to-advance-independent-bitcoin-education-around-the-world/)
 
 
 Discussion
@@ -37,8 +42,10 @@ Discussion
 	- [Crypto.com Card](https://crypto.com/us/cards): 1.5% - 6% in Native CRO token
 - [Ledger unveils Recovery Key — a physical 'spare key' for tap-to-recover crypto wallets](https://www.theblock.co/post/359217/ledger-recovery-key)
 - [Bitkey Introduces Security Hub](https://bitkey.build/introducing-security-hub-your-bitkey-security-setup-all-in-one-place/)
+- [Nunchuk critiques of Bitkey's Seedless setup](https://x.com/hugomofn/status/1927733231853662634)
 - [Amboss Launches Rails](https://bitcoinmagazine.com/news/amboss-launches-rails-a-self-custodial-bitcoin-yield-service), a Self Custody Bitcoin Yield Service
 - [Foundation will release Passport Prime in Q3](https://bitcoinmagazine.com/business/passport-prime-a-new-security-device-for-a-new-generation)
+- [Ledn announces a strategic shift to focus solely on bitcoin-backed lending. Droping ETH and yeild generating products](https://www.ledn.io/post/bitcoin-future)
 - [COLDCARD Co-Sign (CCC)](https://www.youtube.com/watch?v=MjMPDUWWegw)
 - [Steak N Shake reports 50% savings on processing fees when using BTC](https://bitcoinmagazine.com/news/steak-n-shake-reveals-bitcoin-payment-success-at-bitcoin-2025-conference)
 - [Xverse integrates Lightning via Sati](https://bitcoinmagazine.com/press-releases/1-5-million-users-to-access-bitcoins-lightning-network-on-xverse-thanks-to-sati)
